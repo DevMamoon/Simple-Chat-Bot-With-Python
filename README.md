@@ -1,2 +1,2 @@
 # Simple-Chat-Bot-With-Python
-From Hyperskill
+Made from Hyperskill.
